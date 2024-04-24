@@ -1,5 +1,17 @@
 # Modèles de service cloud
 
+# Fork: how update
+
+```yaml
+help:
+  - https://stackoverflow.com/questions/7244321/how-do-i-update-or-sync-a-forked-repository-on-github
+```
+
+# Azure region
+```yaml
+regions: 'https://gist.github.com/ausfestivus/04e55c7d80229069bf3bc75870630ec8'
+```
+
 # REQUIREMENT
 
 Remplacer le '.env.example' et renommez le en '.env' dans chaque dossier ouvous verrer ce fichier
@@ -61,7 +73,7 @@ Le choix du modèle de service cloud approprié dépend de plusieurs facteurs, t
 
 <img src="./assets/storage_account.png">
 
-# Ressource MAnager
+# Ressource Manager
 
 
 
