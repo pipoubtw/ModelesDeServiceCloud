@@ -1,5 +1,7 @@
 # Modèles de service cloud
 
+yes
+
 # Fork: how update
 
 ```yaml
